@@ -2,11 +2,11 @@
 本次实验为图像拼接，调用opencv提取图像的特征值，并进行匹配。自己写了 RANSAC算法对特征值筛选。
 ### 实验结果
 #### 原始图片
- <img src="https://i.loli.net/2019/11/14/RTlpOxfKrzbm45D.jpg" width = "200" />
- <img src="https://i.loli.net/2019/11/14/tyKwjORETr5cALF.jpg" width = "200" />
+<img src="https://i.loli.net/2019/11/14/RTlpOxfKrzbm45D.jpg" width = "200" />
+<img src="https://i.loli.net/2019/11/14/tyKwjORETr5cALF.jpg" width = "200" />
+ 
 #### 拼图结果
- <img src="https://i.loli.net/2019/11/14/ks23QItv6OJoNdh.png"  />
-
+<img src="https://i.loli.net/2019/11/14/ks23QItv6OJoNdh.png"  />
 
 #### 具体步骤
 1. 调用opencv计算两张图片的特征值
